@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HashFunction()
+comment1.params=toBeHashed
+comment1.target=int\ hashMe(java.lang.String)
+comment2.params=bucketNum
+comment2.target=java.lang.String\ printCollisionList(int)
+numComments=3
