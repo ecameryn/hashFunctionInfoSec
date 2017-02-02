@@ -9,6 +9,7 @@ public class HashFunctionTester
     public static void main(String[] args)
     {
         HashFunction hashFunc = new HashFunction();
+        
         int hashVal1, hashVal2, hashVal3, hashVal4, hashVal5;
         hashVal1 = hashFunc.hashMe("ElectraCamerynHolstick");
         hashVal2 = hashFunc.hashMe("ElectraCamerynH");
